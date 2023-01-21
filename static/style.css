@@ -1,0 +1,76 @@
+body{
+text-align : center;
+margin : 0 auto;
+
+
+}
+
+h1{
+    color: white;
+    margin-top: 300px;
+    text-align: center;
+}
+
+p.labelgames {
+color : rgb(245, 245, 245);
+    font-size: 30px;
+    text-decoration: ;
+    text-transform: uppercase;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.jogos{
+text-align:center
+
+}
+
+.form1 {
+    display : inline;
+}
+
+.bg{
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #212121;
+    opacity: 1.0;
+    width: 500%;
+    height: 100%;
+    filter: grayscale();
+    background-repeat: no-repeat;
+
+}
+
+.btn-primary {
+    background-color: #4584b6 !important;
+    margin-bottom: 13px;
+}
+
+.btn-warning {
+margin-bottom: 13px;
+
+}
+
+.btn-block{
+    background-color: #ff5100 !important;
+    margin-top: 20px;
+    border: none !important;
+
+}
+
+.rounded{
+    margin-top: 50px !important;
+}
+
+input{
+width : 30%;
+border-radius: 4px;
+border-color: black ;
+font-size : 25px !important;
+text-align : center;
+background-color : white;
+
+}

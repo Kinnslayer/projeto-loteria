@@ -1,0 +1,12 @@
+from funcoesloteria import *
+
+menu()
+
+
+
+
+
+
+
+
+
