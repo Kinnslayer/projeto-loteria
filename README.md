@@ -1,5 +1,5 @@
 <h1>Projeto Loteria</h1>
-Projeto simples onde o usuário escolhe entre três modos de jogos distintos, e o programa irá entregar números aleatórios de acordo com a escolha do jogo.
+Projeto onde o usuário escolhe entre três modos de jogos distintos, e o programa irá entregar números aleatórios de acordo com a escolha do jogo.
 
 
 <h2>O Usuário Tem Três Escolhas de Jogo:</h2>
